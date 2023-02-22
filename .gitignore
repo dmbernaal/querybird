@@ -1,0 +1,8 @@
+# environment variables
+.env
+
+# data -> test data
+data
+
+# notebooks -> jupyter notebooks
+notebooks
