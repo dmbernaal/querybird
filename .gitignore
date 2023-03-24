@@ -6,3 +6,14 @@ data
 
 # notebooks -> jupyter notebooks
 notebooks
+
+# experimental notebooks
+summarize.ipynb
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+mongoose/__pycache__/
+**/__pycache__/
+
+# Notebook checkpoints
+**/*.ipynb_checkpoints
